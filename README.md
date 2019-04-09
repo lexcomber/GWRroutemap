@@ -12,4 +12,6 @@ Alexis Comber<sup>1*</sup>, Chris Brunsdon<sup>2</sup>, Martin Charlton<sup>2</s
 <sup>8</sup> State Key Laboratory of Loess and Quaternary Geology, Institute of Earth Environment, Chinese Academy of Sciences, Xi’an, China.\
 <sup>9</sup> Rothamsted Research, North Wyke, Okehampton, Devon, UK.
 
+<sup>*</sup> contact author: a.comber@leeds.ac.uk
+
 ## Abstract - TBC
