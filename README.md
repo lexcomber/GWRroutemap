@@ -1,4 +1,4 @@
-# The GWR route map: all you ever wanted to know about applying Geographically Weighted Regression but were afraid to ask
+# The GWR route map: a guide to the informed application of GWR
 
 Alexis Comber<sup>1*</sup>, Chris Brunsdon<sup>2</sup>, Martin Charlton<sup>2</sup>, Guanpeng Dong<sup>3</sup>, Rich Harris<sup>4</sup>, Binbin Lu<sup>5</sup>, Yihe Lü<sup>6</sup>, Daisuke Murakami<sup>7</sup>, Tomoki Nakaya<sup>8</sup>, Yunqiang Wang<sup>9</sup>, Paul Harris<sup>10</sup>
 
