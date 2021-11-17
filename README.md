@@ -8,7 +8,7 @@ Alexis Comber<sup>1*</sup>, Chris Brunsdon<sup>2</sup>, Martin Charlton<sup>2</s
 <sup>4</sup> School of Geographical Sciences, University of Bristol, Bristol, UK.\
 <sup>5</sup> School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China.\
 <sup>6</sup> State Key Laboratory of Urban and Regional Ecology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences; Joint Center for Global Change Studies; University of Chinese Academy of Sciences, Beijing, China.\
-<sup>6</sup> Department of Data Science, Institute of Statistical Mathematics, Tachikawa, Japan
+<sup>7</sup> Department of Data Science, Institute of Statistical Mathematics, Tachikawa, Japan.\
 <sup>8</sup> Graduate School of Environmental Studies, Tohoku University, Sendai, Japan.\
 <sup>9</sup> State Key Laboratory of Loess and Quaternary Geology, Institute of Earth Environment, Chinese Academy of Sciences, Xi’an, China.\
 <sup>10</sup> Sustainable Agriculture Sciences North Wyke, Rothamsted Research, Okehampton, UK.
