@@ -29,8 +29,9 @@ To run the analysis in this paper you should download the the R script `GWR_rout
 
 If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
 
-> sessionInfo()
-`R version 4.0.4 (2021-02-15)
+```{r}
+sessionInfo()
+R version 4.0.4 (2021-02-15)
 Platform: x86_64-apple-darwin17.0 (64-bit)
 Running under: macOS Big Sur 10.16
 
@@ -65,4 +66,5 @@ loaded via a namespace (and not attached):
 [61] generics_0.1.0     DBI_1.1.1          pillar_1.6.0       haven_2.4.0        foreign_0.8-81     withr_2.4.2       
 [67] units_0.7-1        xts_0.12.1         abind_1.4-5        spacetime_1.2-5    modelr_0.1.8       crayon_1.4.1      
 [73] KernSmooth_2.23-18 utf8_1.2.1         grid_4.0.4         readxl_1.3.1       data.table_1.14.0  FNN_1.1.3         
-[79] reprex_2.0.0       digest_0.6.27      classInt_0.4-3     R.cache_0.14.0     R.utils_2.10.1     munsell_0.5.0 `   
+[79] reprex_2.0.0       digest_0.6.27      classInt_0.4-3     R.cache_0.14.0     R.utils_2.10.1     munsell_0.5.0 
+```
