@@ -30,7 +30,7 @@ To run the analysis in this paper you should download the the R script `GWR_rout
 If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
 
 > sessionInfo()
-R version 4.0.4 (2021-02-15)
+`R version 4.0.4 (2021-02-15)`
 Platform: x86_64-apple-darwin17.0 (64-bit)
 Running under: macOS Big Sur 10.16
 
